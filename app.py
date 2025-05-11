@@ -89,7 +89,7 @@ if page == "Data Entry":
                         "utility_account_id": utility_account_id
                     }
                     
-                    response = supabase.table("payments").insert(data).execute()
+                    response = supabase.table("payment").insert(data).execute()
                     if len(response.data) > 0:
                         st.success("Payment successfully recorded!")
                         st.balloons()
@@ -103,7 +103,7 @@ elif page == "Visualization":
     st.title("📊 Payment Analytics")
     
     try:
-        response = supabase.table("payments").select("*").execute()
+        response = supabase.table("payment").select("*").execute()
         df = pd.DataFrame(response.data)
         
         if df.empty:
