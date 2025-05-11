@@ -1,4 +1,9 @@
 import streamlit as st
+
+# MUST be the first Streamlit command
+st.set_page_config(layout="wide", page_title="Hotel Payment Manager", page_icon="🏨")
+
+# Now import other libraries
 from supabase import create_client
 import pandas as pd
 from datetime import datetime
@@ -18,8 +23,7 @@ def init_supabase():
 
 supabase = init_supabase()
 
-# Page setup
-st.set_page_config(layout="wide", page_title="Hotel Payment Manager")
+# Page navigation
 page = st.sidebar.selectbox("Navigation", ["Data Entry", "Visualization"])
 
 # --- Data Entry Page ---
@@ -119,15 +123,39 @@ elif page == "Visualization":
             
             st.divider()
             
+            # Date range selector
+            min_date = df['date'].min().date()
+            max_date = df['date'].max().date()
+            start_date, end_date = st.date_input(
+                "Date Range",
+                value=(min_date, max_date),
+                min_value=min_date,
+                max_value=max_date
+            )
+            
+            # Filter data
+            filtered_df = df[
+                (df['date'].dt.date >= start_date) & 
+                (df['date'].dt.date <= end_date)
+            ]
+            
             # Visualization 1: Payments by Type
             st.subheader("Payments by Category")
-            type_totals = df.groupby('category')['amount'].sum().reset_index()
+            type_totals = filtered_df.groupby('category')['amount'].sum().reset_index()
             st.bar_chart(type_totals, x='category', y='amount')
             
             # Visualization 2: Status Distribution
             st.subheader("Payment Status")
-            status_counts = df['status'].value_counts()
+            status_counts = filtered_df['status'].value_counts()
             st.bar_chart(status_counts)
+            
+            # Raw data view
+            st.subheader("Raw Data")
+            st.dataframe(filtered_df.sort_values('date', ascending=False))
             
     except Exception as e:
         st.error(f"Error loading data: {str(e)}")
+
+# Footer
+st.sidebar.markdown("---")
+st.sidebar.markdown("© 2023 Hotel Management System")
