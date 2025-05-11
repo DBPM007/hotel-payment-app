@@ -100,7 +100,6 @@ if page == "Data Entry":
                     
                     if response.data:
                         st.success("✅ Payment successfully recorded!")
-                        st.balloons()
                     else:
                         st.error("❌ No data returned from Supabase")
                         
@@ -152,4 +151,4 @@ elif page == "Visualization":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.markdown("© 2023 Hotel Management System")
+st.sidebar.markdown("© 2025 Hotel Management System")
