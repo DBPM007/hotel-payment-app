@@ -1,0 +1,286 @@
+id,apartment_id,amenity_name,description,is_chargeable
+1,1,Parking,Building Parking,True
+2,1,BBQ Area,Building BBQ Area,False
+3,1,Security,Building Security,True
+4,1,Gym,Building Gym,False
+5,1,Swimming Pool,Building Swimming Pool,True
+6,1,Kids Play Area,Building Kids Play Area,True
+7,1,Balcony,Building Balcony,True
+8,2,Swimming Pool,Building Swimming Pool,True
+9,2,Security,Building Security,True
+10,2,Gym,Building Gym,False
+11,2,Laundry,Building Laundry,False
+12,2,Kids Play Area,Building Kids Play Area,False
+13,2,Parking,Building Parking,True
+14,2,Balcony,Building Balcony,True
+15,2,Concierge,Building Concierge,True
+16,3,Parking,Building Parking,True
+17,3,Security,Building Security,False
+18,3,Concierge,Building Concierge,False
+19,3,BBQ Area,Building BBQ Area,True
+20,3,Swimming Pool,Building Swimming Pool,True
+21,3,Elevator,Building Elevator,False
+22,3,Balcony,Building Balcony,True
+23,4,Kids Play Area,Building Kids Play Area,True
+24,4,Laundry,Building Laundry,True
+25,4,Balcony,Building Balcony,False
+26,5,Kids Play Area,Building Kids Play Area,True
+27,5,Elevator,Building Elevator,False
+28,5,Swimming Pool,Building Swimming Pool,True
+29,5,Concierge,Building Concierge,True
+30,5,Balcony,Building Balcony,True
+31,6,Elevator,Building Elevator,False
+32,6,Laundry,Building Laundry,False
+33,6,BBQ Area,Building BBQ Area,False
+34,6,Gym,Building Gym,False
+35,6,Swimming Pool,Building Swimming Pool,True
+36,7,Security,Building Security,False
+37,7,Balcony,Building Balcony,False
+38,7,Elevator,Building Elevator,True
+39,7,Concierge,Building Concierge,True
+40,7,Laundry,Building Laundry,False
+41,7,Parking,Building Parking,False
+42,7,Gym,Building Gym,True
+43,8,Kids Play Area,Building Kids Play Area,False
+44,8,Parking,Building Parking,False
+45,8,Concierge,Building Concierge,False
+46,8,Gym,Building Gym,True
+47,8,Swimming Pool,Building Swimming Pool,True
+48,8,Balcony,Building Balcony,True
+49,8,Laundry,Building Laundry,True
+50,8,BBQ Area,Building BBQ Area,True
+51,9,Swimming Pool,Building Swimming Pool,False
+52,9,Security,Building Security,True
+53,9,Balcony,Building Balcony,False
+54,9,Kids Play Area,Building Kids Play Area,False
+55,10,Parking,Building Parking,False
+56,10,Balcony,Building Balcony,False
+57,10,Laundry,Building Laundry,True
+58,10,Swimming Pool,Building Swimming Pool,False
+59,10,Elevator,Building Elevator,True
+60,10,Concierge,Building Concierge,False
+61,11,Balcony,Building Balcony,True
+62,11,Swimming Pool,Building Swimming Pool,False
+63,11,Parking,Building Parking,False
+64,11,Gym,Building Gym,True
+65,11,BBQ Area,Building BBQ Area,False
+66,11,Elevator,Building Elevator,True
+67,11,Laundry,Building Laundry,False
+68,12,Kids Play Area,Building Kids Play Area,False
+69,12,Laundry,Building Laundry,True
+70,12,Security,Building Security,True
+71,12,Gym,Building Gym,True
+72,12,BBQ Area,Building BBQ Area,True
+73,13,Balcony,Building Balcony,True
+74,13,Laundry,Building Laundry,False
+75,13,Elevator,Building Elevator,False
+76,13,Kids Play Area,Building Kids Play Area,True
+77,13,Swimming Pool,Building Swimming Pool,True
+78,14,Laundry,Building Laundry,False
+79,14,Swimming Pool,Building Swimming Pool,False
+80,14,Concierge,Building Concierge,False
+81,14,Parking,Building Parking,True
+82,14,Elevator,Building Elevator,True
+83,15,Elevator,Building Elevator,False
+84,15,Balcony,Building Balcony,True
+85,15,Concierge,Building Concierge,False
+86,15,Security,Building Security,False
+87,16,Swimming Pool,Building Swimming Pool,True
+88,16,Elevator,Building Elevator,False
+89,16,Security,Building Security,False
+90,16,Balcony,Building Balcony,False
+91,16,Concierge,Building Concierge,False
+92,16,Laundry,Building Laundry,False
+93,16,Parking,Building Parking,True
+94,16,Gym,Building Gym,False
+95,17,Kids Play Area,Building Kids Play Area,True
+96,17,Concierge,Building Concierge,False
+97,17,Parking,Building Parking,True
+98,17,Laundry,Building Laundry,True
+99,18,BBQ Area,Building BBQ Area,True
+100,18,Kids Play Area,Building Kids Play Area,True
+101,18,Gym,Building Gym,True
+102,18,Swimming Pool,Building Swimming Pool,True
+103,18,Security,Building Security,False
+104,19,Swimming Pool,Building Swimming Pool,False
+105,19,Concierge,Building Concierge,True
+106,19,Parking,Building Parking,False
+107,19,Gym,Building Gym,False
+108,20,Parking,Building Parking,True
+109,20,Elevator,Building Elevator,False
+110,20,Balcony,Building Balcony,True
+111,21,Elevator,Building Elevator,True
+112,21,Balcony,Building Balcony,True
+113,21,Gym,Building Gym,True
+114,22,Kids Play Area,Building Kids Play Area,False
+115,22,Elevator,Building Elevator,True
+116,22,Laundry,Building Laundry,True
+117,22,Balcony,Building Balcony,False
+118,22,Gym,Building Gym,False
+119,22,BBQ Area,Building BBQ Area,True
+120,22,Swimming Pool,Building Swimming Pool,False
+121,23,Security,Building Security,False
+122,23,BBQ Area,Building BBQ Area,True
+123,23,Concierge,Building Concierge,False
+124,23,Laundry,Building Laundry,True
+125,23,Gym,Building Gym,True
+126,24,Swimming Pool,Building Swimming Pool,True
+127,24,Elevator,Building Elevator,True
+128,24,Gym,Building Gym,False
+129,24,Concierge,Building Concierge,False
+130,24,Kids Play Area,Building Kids Play Area,False
+131,24,Security,Building Security,True
+132,24,Laundry,Building Laundry,False
+133,24,BBQ Area,Building BBQ Area,True
+134,25,Swimming Pool,Building Swimming Pool,True
+135,25,Kids Play Area,Building Kids Play Area,False
+136,25,Laundry,Building Laundry,False
+137,25,Balcony,Building Balcony,True
+138,25,BBQ Area,Building BBQ Area,False
+139,25,Gym,Building Gym,True
+140,25,Parking,Building Parking,True
+141,26,Concierge,Building Concierge,False
+142,26,Balcony,Building Balcony,True
+143,26,Kids Play Area,Building Kids Play Area,True
+144,26,Laundry,Building Laundry,False
+145,26,Gym,Building Gym,True
+146,26,Security,Building Security,True
+147,27,Balcony,Building Balcony,False
+148,27,BBQ Area,Building BBQ Area,False
+149,27,Parking,Building Parking,False
+150,27,Concierge,Building Concierge,False
+151,27,Security,Building Security,False
+152,27,Kids Play Area,Building Kids Play Area,True
+153,28,Balcony,Building Balcony,True
+154,28,Parking,Building Parking,False
+155,28,BBQ Area,Building BBQ Area,True
+156,28,Swimming Pool,Building Swimming Pool,False
+157,29,Kids Play Area,Building Kids Play Area,True
+158,29,Balcony,Building Balcony,True
+159,29,Swimming Pool,Building Swimming Pool,False
+160,29,Laundry,Building Laundry,True
+161,29,Parking,Building Parking,False
+162,29,BBQ Area,Building BBQ Area,True
+163,30,Balcony,Building Balcony,False
+164,30,Elevator,Building Elevator,True
+165,30,Parking,Building Parking,False
+166,30,Gym,Building Gym,True
+167,30,BBQ Area,Building BBQ Area,False
+168,30,Swimming Pool,Building Swimming Pool,False
+169,30,Concierge,Building Concierge,False
+170,30,Security,Building Security,False
+171,31,Concierge,Building Concierge,False
+172,31,Elevator,Building Elevator,False
+173,31,Gym,Building Gym,True
+174,31,Swimming Pool,Building Swimming Pool,False
+175,31,BBQ Area,Building BBQ Area,False
+176,31,Balcony,Building Balcony,True
+177,32,Concierge,Building Concierge,True
+178,32,Parking,Building Parking,False
+179,32,Balcony,Building Balcony,True
+180,32,Swimming Pool,Building Swimming Pool,True
+181,33,Parking,Building Parking,True
+182,33,Swimming Pool,Building Swimming Pool,True
+183,33,Kids Play Area,Building Kids Play Area,True
+184,33,Gym,Building Gym,False
+185,33,Laundry,Building Laundry,False
+186,33,Security,Building Security,True
+187,33,BBQ Area,Building BBQ Area,True
+188,34,BBQ Area,Building BBQ Area,True
+189,34,Security,Building Security,False
+190,34,Concierge,Building Concierge,False
+191,34,Kids Play Area,Building Kids Play Area,False
+192,34,Elevator,Building Elevator,False
+193,34,Parking,Building Parking,False
+194,34,Laundry,Building Laundry,False
+195,35,Gym,Building Gym,True
+196,35,BBQ Area,Building BBQ Area,True
+197,35,Laundry,Building Laundry,True
+198,36,Security,Building Security,False
+199,36,Swimming Pool,Building Swimming Pool,True
+200,36,Kids Play Area,Building Kids Play Area,True
+201,36,Parking,Building Parking,True
+202,36,BBQ Area,Building BBQ Area,True
+203,37,Balcony,Building Balcony,True
+204,37,Gym,Building Gym,True
+205,37,Elevator,Building Elevator,True
+206,37,BBQ Area,Building BBQ Area,True
+207,37,Parking,Building Parking,False
+208,37,Concierge,Building Concierge,True
+209,37,Laundry,Building Laundry,False
+210,38,BBQ Area,Building BBQ Area,False
+211,38,Laundry,Building Laundry,False
+212,38,Swimming Pool,Building Swimming Pool,True
+213,38,Elevator,Building Elevator,False
+214,38,Security,Building Security,True
+215,39,BBQ Area,Building BBQ Area,True
+216,39,Parking,Building Parking,True
+217,39,Swimming Pool,Building Swimming Pool,False
+218,39,Gym,Building Gym,False
+219,39,Elevator,Building Elevator,True
+220,39,Laundry,Building Laundry,False
+221,39,Kids Play Area,Building Kids Play Area,True
+222,39,Concierge,Building Concierge,False
+223,40,Kids Play Area,Building Kids Play Area,False
+224,40,Laundry,Building Laundry,False
+225,40,Balcony,Building Balcony,True
+226,40,Parking,Building Parking,True
+227,41,Laundry,Building Laundry,False
+228,41,Swimming Pool,Building Swimming Pool,False
+229,41,Kids Play Area,Building Kids Play Area,True
+230,41,Gym,Building Gym,True
+231,41,Concierge,Building Concierge,True
+232,42,Balcony,Building Balcony,False
+233,42,Parking,Building Parking,False
+234,42,Elevator,Building Elevator,True
+235,42,Swimming Pool,Building Swimming Pool,True
+236,43,Balcony,Building Balcony,False
+237,43,Concierge,Building Concierge,False
+238,43,Security,Building Security,False
+239,43,Parking,Building Parking,True
+240,43,BBQ Area,Building BBQ Area,True
+241,43,Swimming Pool,Building Swimming Pool,False
+242,43,Kids Play Area,Building Kids Play Area,True
+243,43,Elevator,Building Elevator,True
+244,44,Swimming Pool,Building Swimming Pool,False
+245,44,Laundry,Building Laundry,False
+246,44,Balcony,Building Balcony,True
+247,44,Gym,Building Gym,False
+248,44,Security,Building Security,True
+249,44,Parking,Building Parking,True
+250,45,Parking,Building Parking,True
+251,45,Kids Play Area,Building Kids Play Area,False
+252,45,Balcony,Building Balcony,True
+253,45,Concierge,Building Concierge,True
+254,45,Security,Building Security,False
+255,45,Laundry,Building Laundry,True
+256,45,Swimming Pool,Building Swimming Pool,False
+257,45,BBQ Area,Building BBQ Area,True
+258,46,Gym,Building Gym,False
+259,46,Security,Building Security,False
+260,46,Parking,Building Parking,False
+261,46,Laundry,Building Laundry,True
+262,46,Kids Play Area,Building Kids Play Area,False
+263,46,BBQ Area,Building BBQ Area,False
+264,46,Swimming Pool,Building Swimming Pool,True
+265,47,BBQ Area,Building BBQ Area,True
+266,47,Kids Play Area,Building Kids Play Area,True
+267,47,Gym,Building Gym,False
+268,47,Laundry,Building Laundry,True
+269,47,Concierge,Building Concierge,True
+270,47,Parking,Building Parking,True
+271,48,Balcony,Building Balcony,True
+272,48,Swimming Pool,Building Swimming Pool,False
+273,48,Concierge,Building Concierge,False
+274,48,Kids Play Area,Building Kids Play Area,False
+275,48,Parking,Building Parking,True
+276,49,Swimming Pool,Building Swimming Pool,False
+277,49,Security,Building Security,True
+278,49,Gym,Building Gym,True
+279,49,Laundry,Building Laundry,True
+280,50,Laundry,Building Laundry,True
+281,50,Kids Play Area,Building Kids Play Area,False
+282,50,Gym,Building Gym,False
+283,50,Parking,Building Parking,True
+284,50,Security,Building Security,True
+285,50,Concierge,Building Concierge,False

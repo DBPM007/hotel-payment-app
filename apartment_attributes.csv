@@ -1,0 +1,151 @@
+id,apartment_id,attribute_type,attribute_value
+1,1,View,Pool View
+2,1,Flooring,Wood
+3,1,Layout,Traditional
+4,2,View,Pool View
+5,2,Flooring,Tiles
+6,2,Layout,Modern
+7,3,View,Sea View
+8,3,Flooring,Wood
+9,3,Layout,Traditional
+10,4,View,Sea View
+11,4,Flooring,Wood
+12,4,Layout,Modern
+13,5,View,City View
+14,5,Flooring,Marble
+15,5,Layout,Traditional
+16,6,View,City View
+17,6,Flooring,Wood
+18,6,Layout,Traditional
+19,7,View,Garden View
+20,7,Flooring,Tiles
+21,7,Layout,Open Plan
+22,8,View,Sea View
+23,8,Flooring,Wood
+24,8,Layout,Open Plan
+25,9,View,Sea View
+26,9,Flooring,Tiles
+27,9,Layout,Classic
+28,10,View,City View
+29,10,Flooring,Marble
+30,10,Layout,Classic
+31,11,View,No View
+32,11,Flooring,Tiles
+33,11,Layout,Modern
+34,12,View,Pool View
+35,12,Flooring,Marble
+36,12,Layout,Open Plan
+37,13,View,No View
+38,13,Flooring,Tiles
+39,13,Layout,Traditional
+40,14,View,No View
+41,14,Flooring,Tiles
+42,14,Layout,Modern
+43,15,View,No View
+44,15,Flooring,Tiles
+45,15,Layout,Open Plan
+46,16,View,No View
+47,16,Flooring,Tiles
+48,16,Layout,Traditional
+49,17,View,No View
+50,17,Flooring,Carpet
+51,17,Layout,Classic
+52,18,View,Pool View
+53,18,Flooring,Tiles
+54,18,Layout,Classic
+55,19,View,Garden View
+56,19,Flooring,Wood
+57,19,Layout,Open Plan
+58,20,View,Sea View
+59,20,Flooring,Marble
+60,20,Layout,Modern
+61,21,View,Pool View
+62,21,Flooring,Carpet
+63,21,Layout,Traditional
+64,22,View,Garden View
+65,22,Flooring,Marble
+66,22,Layout,Traditional
+67,23,View,Pool View
+68,23,Flooring,Carpet
+69,23,Layout,Open Plan
+70,24,View,No View
+71,24,Flooring,Tiles
+72,24,Layout,Classic
+73,25,View,Pool View
+74,25,Flooring,Marble
+75,25,Layout,Traditional
+76,26,View,City View
+77,26,Flooring,Tiles
+78,26,Layout,Open Plan
+79,27,View,No View
+80,27,Flooring,Carpet
+81,27,Layout,Classic
+82,28,View,City View
+83,28,Flooring,Carpet
+84,28,Layout,Modern
+85,29,View,Garden View
+86,29,Flooring,Marble
+87,29,Layout,Traditional
+88,30,View,Sea View
+89,30,Flooring,Tiles
+90,30,Layout,Modern
+91,31,View,Garden View
+92,31,Flooring,Marble
+93,31,Layout,Traditional
+94,32,View,Sea View
+95,32,Flooring,Carpet
+96,32,Layout,Modern
+97,33,View,City View
+98,33,Flooring,Tiles
+99,33,Layout,Traditional
+100,34,View,Garden View
+101,34,Flooring,Carpet
+102,34,Layout,Traditional
+103,35,View,No View
+104,35,Flooring,Tiles
+105,35,Layout,Modern
+106,36,View,Pool View
+107,36,Flooring,Carpet
+108,36,Layout,Open Plan
+109,37,View,No View
+110,37,Flooring,Tiles
+111,37,Layout,Open Plan
+112,38,View,City View
+113,38,Flooring,Wood
+114,38,Layout,Open Plan
+115,39,View,No View
+116,39,Flooring,Wood
+117,39,Layout,Classic
+118,40,View,City View
+119,40,Flooring,Tiles
+120,40,Layout,Modern
+121,41,View,Sea View
+122,41,Flooring,Wood
+123,41,Layout,Open Plan
+124,42,View,Garden View
+125,42,Flooring,Wood
+126,42,Layout,Classic
+127,43,View,Sea View
+128,43,Flooring,Marble
+129,43,Layout,Classic
+130,44,View,Sea View
+131,44,Flooring,Wood
+132,44,Layout,Traditional
+133,45,View,No View
+134,45,Flooring,Carpet
+135,45,Layout,Open Plan
+136,46,View,Pool View
+137,46,Flooring,Carpet
+138,46,Layout,Open Plan
+139,47,View,Sea View
+140,47,Flooring,Tiles
+141,47,Layout,Open Plan
+142,48,View,Garden View
+143,48,Flooring,Wood
+144,48,Layout,Traditional
+145,49,View,Pool View
+146,49,Flooring,Tiles
+147,49,Layout,Open Plan
+148,50,View,Sea View
+149,50,Flooring,Wood
+150,50,Layout,Traditional

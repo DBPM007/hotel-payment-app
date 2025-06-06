@@ -1,0 +1,33 @@
+brokerage_id,apartment_id,broker_id,amount,payment_date,payment_method,status,receipt_url
+1,1,2,7909.73,2023-10-17,Cheque,Paid,https://example.com/receipts/fwlHBJnnxABJmOnd.pdf
+2,5,5,3860.04,2023-12-31,Bank Transfer,Paid,https://example.com/receipts/HcEuhnBMblUcyHoG.pdf
+3,6,5,5895.79,2022-06-13,Bank Transfer,Paid,https://example.com/receipts/XRvkhjnLWgGpAxjh.pdf
+4,7,4,11733.71,2022-08-02,Bank Transfer,Paid,https://example.com/receipts/qtwrXggihqtokEMm.pdf
+5,10,4,8317.68,2022-11-25,Cash,Paid,https://example.com/receipts/ohvdbyjjVurlLTMb.pdf
+6,11,7,2204.23,2022-12-21,Cheque,Paid,https://example.com/receipts/UWCqMRvfxXBmHNrG.pdf
+7,12,7,7360.64,2023-11-29,Bank Transfer,Paid,https://example.com/receipts/PeLZUeTJVrciKvAq.pdf
+8,13,4,2566.3,2022-12-02,Cheque,Paid,https://example.com/receipts/BLLopxUxcVKBXBLT.pdf
+9,14,1,3741.65,2023-03-03,Cash,Paid,https://example.com/receipts/hAteLBomBBqnoFND.pdf
+10,15,5,3207.28,2022-08-12,Bank Transfer,Paid,https://example.com/receipts/NFNmISLQzdMTBFNq.pdf
+11,16,8,3925.22,2022-04-06,Bank Transfer,Paid,https://example.com/receipts/BOOitlyFOUuWEZEt.pdf
+12,17,5,2824.95,2022-02-03,Bank Transfer,Paid,https://example.com/receipts/AFELaBvYAXaZKjWf.pdf
+13,18,2,12729.27,2023-03-23,Cheque,Paid,https://example.com/receipts/pUUiBYFmoeqKeejm.pdf
+14,19,9,2051.04,2023-07-12,Cash,Paid,https://example.com/receipts/rpUVhunHwEkyaoya.pdf
+15,21,6,10941.62,2022-03-27,Bank Transfer,Paid,https://example.com/receipts/HbsrQdoDqHoHBxQz.pdf
+16,22,8,3834.32,2022-09-04,Cash,Paid,https://example.com/receipts/KojWuHXPjNnIXzSw.pdf
+17,25,5,1499.98,2022-09-01,Cheque,Paid,https://example.com/receipts/cmkGuTPCUmdqoVae.pdf
+18,26,3,4578.94,2022-08-28,Bank Transfer,Paid,https://example.com/receipts/PPnvtodytEJUVDYh.pdf
+19,27,4,8880.21,2022-04-24,Cash,Paid,https://example.com/receipts/BrvHsLjRXwZrDiRS.pdf
+20,29,3,2088.95,2023-05-08,Cash,Paid,https://example.com/receipts/WwdtKGsVNOCjXxGp.pdf
+21,32,10,2736.45,2023-11-10,Cash,Paid,https://example.com/receipts/jWMKvObBaoUnwUsx.pdf
+22,34,10,4160.51,2023-03-19,Cheque,Paid,https://example.com/receipts/wQLvTzkMGHBgUOaE.pdf
+23,35,10,5389.91,2023-02-07,Bank Transfer,Paid,https://example.com/receipts/AJVWLSuNcrxouaJL.pdf
+24,36,1,17707.96,2023-05-30,Cash,Paid,https://example.com/receipts/yNxmUNbCObPANKgQ.pdf
+25,37,1,7887.58,2022-08-14,Bank Transfer,Paid,https://example.com/receipts/hLTIiAsGqtVZNGla.pdf
+26,41,7,2613.5,2022-07-07,Bank Transfer,Paid,https://example.com/receipts/ZhfGuUrvztvgysUK.pdf
+27,42,3,5709.24,2023-08-16,Cheque,Paid,https://example.com/receipts/ryUyJQzLZwfhVjqL.pdf
+28,46,9,2688.88,2023-06-28,Cheque,Paid,https://example.com/receipts/UlAiXQjwzbetMwlv.pdf
+29,47,9,1865.32,2022-12-05,Bank Transfer,Paid,https://example.com/receipts/oJbvwuAGtiriFtDJ.pdf
+30,48,5,2176.32,2023-11-01,Cash,Paid,https://example.com/receipts/MuqkpiVzbZAPNVHy.pdf
+31,49,9,17096.71,2022-02-27,Cash,Paid,https://example.com/receipts/MafIIYUHdMujPpqe.pdf
+32,50,6,8587.16,2023-10-24,Cash,Paid,https://example.com/receipts/dNaltNmBsIcQOHks.pdf

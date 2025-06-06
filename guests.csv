@@ -1,0 +1,22 @@
+guest_id,apartment_id,name,email,phone,id_type,id_number,check_in,check_out,deposit_amount,status
+1,2,Guest 1,guest1@example.com,0580-857-4008,Emirates ID,9780245,2023-01-10,2024-01-05,3307.12,Active
+2,3,Guest 2,guest2@example.com,0528-238-4978,Emirates ID,9269726,2023-08-29,2024-01-08,2797.11,Active
+3,6,Guest 3,guest3@example.com,0526-789-3323,Emirates ID,1080125,2023-06-01,2023-10-18,4735.87,Active
+4,8,Guest 4,guest4@example.com,0585-584-5961,Emirates ID,8530520,2023-03-22,2024-01-27,4543.32,Active
+5,12,Guest 5,guest5@example.com,0518-212-9197,Passport,8435964,2023-06-08,2024-02-16,4503.61,Active
+6,13,Guest 6,guest6@example.com,0576-359-5395,Emirates ID,6240745,2023-02-25,2023-04-22,3488.75,Active
+7,14,Guest 7,guest7@example.com,0548-972-3936,Passport,9895325,2023-12-27,2024-08-15,2042.04,Active
+8,15,Guest 8,guest8@example.com,0532-300-8572,Emirates ID,4034739,2023-04-18,2023-11-09,4390.86,Active
+9,18,Guest 9,guest9@example.com,0535-454-3147,Passport,8427333,2023-02-03,2024-01-28,2494.05,Active
+10,19,Guest 10,guest10@example.com,0587-926-7795,Emirates ID,9127452,2023-08-14,2023-11-26,2003.77,Active
+11,23,Guest 11,guest11@example.com,0533-338-3323,Passport,6126927,2023-05-11,2023-12-23,4899.82,Active
+12,31,Guest 12,guest12@example.com,0569-810-5040,Emirates ID,7013018,2023-01-08,2023-07-18,4099.93,Active
+13,33,Guest 13,guest13@example.com,0517-683-6221,Passport,4546442,2023-06-17,2024-01-28,1604.19,Active
+14,35,Guest 14,guest14@example.com,0539-400-1034,Emirates ID,8603518,2023-10-17,2024-04-26,4284.98,Active
+15,36,Guest 15,guest15@example.com,0573-967-6000,Passport,5227928,2023-03-26,2023-05-24,2344.01,Active
+16,37,Guest 16,guest16@example.com,0536-155-1045,Passport,1562186,2023-06-03,2023-07-30,2570.38,Active
+17,38,Guest 17,guest17@example.com,0582-438-5925,Emirates ID,9004055,2023-03-25,2024-02-03,4969.15,Active
+18,42,Guest 18,guest18@example.com,0536-291-1931,Passport,8254215,2023-03-21,2023-07-15,1474.5,Active
+19,44,Guest 19,guest19@example.com,0553-292-8608,Passport,5061286,2023-10-11,2024-08-19,3405.05,Active
+20,45,Guest 20,guest20@example.com,0571-199-7531,Emirates ID,7011313,2023-03-12,2023-04-14,4444.66,Active
+21,48,Guest 21,guest21@example.com,0570-875-1965,Passport,7285153,2023-08-18,2024-03-22,2872.64,Active

@@ -1,0 +1,11 @@
+broker_id,name,company,email,phone,license_number,commission_rate
+1,Broker 1,Elite Properties,broker1@example.com,0539-517-2978,RERA-30899,0.029
+2,Broker 2,Property Finder,broker2@example.com,0550-280-7468,RERA-26354,0.034
+3,Broker 3,Elite Properties,broker3@example.com,0563-998-2518,RERA-50528,0.0294
+4,Broker 4,Bayut,broker4@example.com,0583-793-8106,RERA-71127,0.0223
+5,Broker 5,Property Finder,broker5@example.com,0557-838-9006,RERA-88996,0.0419
+6,Broker 6,Property Finder,broker6@example.com,0525-983-2937,RERA-37118,0.0235
+7,Broker 7,Elite Properties,broker7@example.com,0592-904-6903,RERA-82159,0.0419
+8,Broker 8,Bayut,broker8@example.com,0570-975-1144,RERA-34287,0.0387
+9,Broker 9,Elite Properties,broker9@example.com,0536-791-8673,RERA-12731,0.0341
+10,Broker 10,Luxury Homes,broker10@example.com,0553-729-8768,RERA-18613,0.0246
